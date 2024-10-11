@@ -1,0 +1,3 @@
+#!/bin/bash
+# Mon premier script fait écho à "mon chemin absolu"
+echo "/root/bin"
