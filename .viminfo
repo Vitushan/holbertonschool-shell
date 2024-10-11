@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1728634636,,"q"
+|2,0,1728643008,,"q"
 :wq
-|2,0,1728634573,,"wq"
+|2,0,1728642885,,"wq"
 :w
 |2,0,1728634570,,"w"
 
@@ -29,14 +29,128 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/bin/script_chemin_absolu
-|4,48,1,0,1728634636,"~/bin/script_chemin_absolu"
+'0  1  5  ~/holbertonschool-shell/README.md
+|4,48,1,5,1728643008,"~/holbertonschool-shell/README.md"
+'1  1  64  ~/holbertonschool-shell/basics/README.md
+|4,49,1,64,1728642885,"~/holbertonschool-shell/basics/README.md"
+'2  1  12  ~/holbertonschool-shell/basics/README.md
+|4,50,1,12,1728642199,"~/holbertonschool-shell/basics/README.md"
+'3  1  5  ~/holbertonschool-shell/README.md
+|4,51,1,5,1728641689,"~/holbertonschool-shell/README.md"
+'4  1  14  ~/holbertonschool-shell/README.md
+|4,52,1,14,1728641431,"~/holbertonschool-shell/README.md"
+'5  1  14  ~/holbertonschool-shell/README.md
+|4,53,1,14,1728641431,"~/holbertonschool-shell/README.md"
+'6  1  0  ~/bin/script_chemin_absolu
+|4,54,1,0,1728634636,"~/bin/script_chemin_absolu"
 
 # Jumplist (newest first):
+-'  1  5  ~/holbertonschool-shell/README.md
+|4,39,1,5,1728643008,"~/holbertonschool-shell/README.md"
+-'  1  64  ~/holbertonschool-shell/basics/README.md
+|4,39,1,64,1728642885,"~/holbertonschool-shell/basics/README.md"
+-'  1  64  ~/holbertonschool-shell/basics/README.md
+|4,39,1,64,1728642885,"~/holbertonschool-shell/basics/README.md"
+-'  1  12  ~/holbertonschool-shell/basics/README.md
+|4,39,1,12,1728642199,"~/holbertonschool-shell/basics/README.md"
+-'  1  12  ~/holbertonschool-shell/basics/README.md
+|4,39,1,12,1728642199,"~/holbertonschool-shell/basics/README.md"
+-'  1  5  ~/holbertonschool-shell/README.md
+|4,39,1,5,1728641689,"~/holbertonschool-shell/README.md"
+-'  1  5  ~/holbertonschool-shell/README.md
+|4,39,1,5,1728641689,"~/holbertonschool-shell/README.md"
+-'  1  5  ~/holbertonschool-shell/README.md
+|4,39,1,5,1728641689,"~/holbertonschool-shell/README.md"
+-'  1  5  ~/holbertonschool-shell/README.md
+|4,39,1,5,1728641689,"~/holbertonschool-shell/README.md"
+-'  1  14  ~/holbertonschool-shell/README.md
+|4,39,1,14,1728641431,"~/holbertonschool-shell/README.md"
+-'  1  14  ~/holbertonschool-shell/README.md
+|4,39,1,14,1728641431,"~/holbertonschool-shell/README.md"
+-'  1  14  ~/holbertonschool-shell/README.md
+|4,39,1,14,1728641431,"~/holbertonschool-shell/README.md"
+-'  1  14  ~/holbertonschool-shell/README.md
+|4,39,1,14,1728641431,"~/holbertonschool-shell/README.md"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
+-'  1  0  ~/bin/script_chemin_absolu
+|4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
 -'  1  0  ~/bin/script_chemin_absolu
 |4,39,1,0,1728634636,"~/bin/script_chemin_absolu"
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-shell/README.md
+	*	1728642965	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/holbertonschool-shell/basics/README.md
+	*	1728642882	0
+	"	1	64
+	^	1	65
+	.	1	64
+	+	1	64
 
 > ~/bin/script_chemin_absolu
 	*	1728634634	0
