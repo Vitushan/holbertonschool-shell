@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/test_emacs/*~
+rm -rf /*~
