@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 644 hello 
+chmod 733 hello
+-rwxr-x--- 1 root root 29 Oct 15 11:30 5-execute
