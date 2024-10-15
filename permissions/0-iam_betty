@@ -1,2 +1,2 @@
 #!/bin/bash
-echo su betty chown root .betty
+su chown root .betty
