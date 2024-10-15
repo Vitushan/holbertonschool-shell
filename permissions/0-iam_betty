@@ -1,2 +1,2 @@
 #!/bin/bash
-echo chown 'su betty' 
+echo chown 'su betty' /tmp/h$ 
