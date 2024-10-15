@@ -1,4 +1,2 @@
 #!/bin/bash
 chmod u+rwx,g+rx,o-rwx hello
-
--rwxr-x--- 1 root root 27 Oct 15 15:10 olleh
