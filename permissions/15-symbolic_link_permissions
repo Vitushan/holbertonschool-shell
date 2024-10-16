@@ -1,2 +1,2 @@
 #!/bin/bash
-ch
+ln -s /bin/ls _hello
