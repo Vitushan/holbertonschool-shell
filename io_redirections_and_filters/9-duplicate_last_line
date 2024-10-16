@@ -1,1 +1,2 @@
 #!/bin/bash
+Tail –n1* iacta
