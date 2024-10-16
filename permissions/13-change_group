@@ -1,2 +1,2 @@
 #!/bin/bash
-cg
+chown hello school
