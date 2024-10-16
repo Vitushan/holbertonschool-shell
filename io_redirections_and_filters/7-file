@@ -1,2 +1,2 @@
 #!/bin/bash
-cat \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+rm -rf *Best* ; cat filename
