@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < /etc/passwd > root
+grep root /etc/passwd
