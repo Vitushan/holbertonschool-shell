@@ -1,2 +1,2 @@
 #!/bin/bash
-x
+sort < /etc/passwd > root
