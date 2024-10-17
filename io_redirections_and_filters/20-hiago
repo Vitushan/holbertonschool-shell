@@ -1,2 +1,2 @@
 #!/bin/bash
-sd
+tr -d Cc
