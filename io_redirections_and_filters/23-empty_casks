@@ -1,2 +1,2 @@
 #!/bin/bash
-less . -empty  | rev | cut -d/ -f1 | rev'"'"''
+echo . -empty  | rev | cut -d/ -f1 | rev'"'"''
