@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ~user printf "hello user"
+printf "hello user" | echo ~
