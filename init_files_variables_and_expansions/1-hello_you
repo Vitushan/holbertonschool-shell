@@ -1,2 +1,2 @@
 #!/bin/bash
-grep . | echo "hello user"
+echo "hello user" /tmp
