@@ -1,2 +1,2 @@
 #!/bin/bash
-grep / | wc -l
+/ wc -l
